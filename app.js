@@ -10,7 +10,6 @@ let when = ['before the class', 'when I was sleeping', 'while I was exercising',
 
 function generateNumber(va){
 		return Math.floor(Math.random() * va.length) ;
-        console.log("");
 }
 
 function generateExcuse(){
